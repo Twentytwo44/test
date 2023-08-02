@@ -1,4 +1,4 @@
 main
--number =10
--food = tomyum
--location = school
+-number =1000
+-food = tomyumgoong
+-location = hotel
