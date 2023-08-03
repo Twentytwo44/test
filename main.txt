@@ -1,0 +1,4 @@
+main
+-number =100
+-food = krapao
+-location = KMUTT
